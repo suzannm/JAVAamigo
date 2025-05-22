@@ -1,0 +1,6 @@
+public class Main {
+    public static void main(String[] args) {
+        String Planeta = "Plutão";  // Criação e atribuição da variável
+        System.out.println("O planeta é: " + Planeta);  // Exibição do valor
+    }
+}
