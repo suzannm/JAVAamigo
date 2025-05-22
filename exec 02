@@ -1,0 +1,6 @@
+public class Main {
+    public static void main(String[] args) {
+        String nome = "Suzana";  // Criação e atribuição da variável
+        System.out.println("Olá " + nome);  // Exibição do valor
+    }
+}
